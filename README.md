@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :purple_heart: kernel lover that's all
+- :space_invader: secretly loves c++
+  👽
