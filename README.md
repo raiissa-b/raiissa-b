@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - :purple_heart: kernel lover that's all
 - :space_invader: secretly loves c++
   👽
-  _update_: loving c++ didn't mean i wanted to be stuck in a c++ job, away from kernel programming ... 🫠
+- _update_: loving c++ didn't mean i wanted to be stuck in a c++ job, away from kernel programming ... 🫠
